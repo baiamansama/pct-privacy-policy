@@ -1,6 +1,6 @@
 # Privacy Policy
 
-_Last updated: May 8, 2025_
+_Last updated: May 14, 2025_
 
 **Personal Color Test** ("we", "our", or "us") does **not collect, store, or share** any personal or sensitive user data.
 
